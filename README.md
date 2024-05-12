@@ -1,0 +1,1 @@
+This file contain a deep learning model which indentifies the images of vegetable and classify them into different groups of vegetable. I used VGG16 model and fine tuned the model to get the validation accuracy on the test 99.27%
